@@ -50,10 +50,10 @@ int main() {
     printf("Digite o pib: \n");
     scanf("%f", &pib2);
     printf("Digite o número de pontos turísticos: \n");
-    scanf("%d \n", &turismo2);
+    scanf("%d", &turismo2);
 
   // Área para exibição dos dados da cidade
-    printf("Carta 1:\n");
+    printf("\nCarta 1:\n");
     printf("Estado: %s\n", estado1);
     printf("Código da carta: %s\n", codigo1);
     printf("Cidade: %s\n", cidade1);
